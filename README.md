@@ -1,5 +1,5 @@
 # CBSD68-dataset
-Color BSD68 dataset for image denoising benchmarks 
+Color BSD68 dataset for image denoising benchmarks.
 It is part of The Berkeley Segmentation Dataset and Benchmark https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
 
 
@@ -8,7 +8,8 @@ It includes the original .jpg files, converted to lossless .png, and noisy with 
 
 Authors: D. Martin and C. Fowlkes and D. Tal and J. Malik
   
-Title: A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and             Measuring Ecological Statistics
+Title: 
+[A Database of Human Segmented Natural Images and its Application to Evaluating Segmentation Algorithms and Measuring Ecological Statistics](https://doi.org/10.1109/ICCV.2001.937655)
 
 Book Title: Proc. 8th Int'l Conf. Computer Vision
 Year: 2001
